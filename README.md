@@ -8,6 +8,7 @@ Methodology: Use pre-trained deep learning models (e.g., ResNet50, EfficientNet)
 Tools: Python, TensorFlow/Keras, OpenCV, NumPy
 Dataset: Public datasets (e.g., BCCD, ALL-IDB, BloodMNIST)
 Outcome: Achieve high accuracy in multiclass blood cell detection.
+
 #2. Literature Review
 Purpose: Contextualize your work in the field.
 Contents:
@@ -16,6 +17,7 @@ Summary of previous approaches: traditional image processing vs deep learning.
 Comparison of CNN architectures used in medical imaging.
 Gaps: Lack of large annotated datasets, overfitting in small samples.
 Justification for transfer learning.
+
 #3. System Design Document
 Purpose: Describe the architecture and flow.
 Contents:
