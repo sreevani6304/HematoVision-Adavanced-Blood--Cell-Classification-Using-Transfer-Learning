@@ -1,0 +1,4 @@
+Flask
+Pillow
+tensorflow  # Or tensorflow-cpu if you don't have a GPU
+numpy
