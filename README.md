@@ -1,3 +1,4 @@
+## HematoVision-Adavanced-Blood-Cell-Classification-Using-Transfer-Learning
 #Hematovision: Advanced Blood Cell Classification Using Transfer Learning
 Abstract
 Accurate classification of blood cells is essential for diagnosing hematological conditions such as leukemia, anemia, and infections. This project, titled Hematovision, proposes an advanced deep learning pipeline leveraging transfer learning to automatically classify blood cells into distinct categories. Pre-trained convolutional neural networks (CNNs), such as ResNet50 and EfficientNet, are fine-tuned using annotated microscopic blood smear images. This approach achieves high classification accuracy while reducing the computational cost and time associated with training deep models from scratch.
